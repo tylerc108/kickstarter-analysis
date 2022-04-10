@@ -6,6 +6,11 @@ For this project, we analyzed a data set containing information regarding fundra
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
+In this part of our analysis, we looked into how the time of year effected the outcomes of the campaigns. This is very useful information for Louise to know, because if there is any correlation between the time of year the campaigns were launched and the success rate, she can aim to launch her campaign in the time of year when success rates were the highest. This could potentially increase her chances of her campaign being successful. There were four possible outcomes for a campaing in the data we had; these included "canceled," "live," "failed," and "successful." The results of our analysis can be seen in the below chart:
+  
+  ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/103055666/162633724-310f1790-0d15-4305-bfc9-4da48c36954f.png)
+
+As you can see in this chart, the frequency of "canceled" outcomes remained extremely constant throughout each month. This likely means the time of year did not have much if any effect on the number of canceled campaigns. To a lesser degree, this was also true for the frequency of "failed" outcomes. The number of failed outcomes fluctuated somewhat, and seemed to slightly increase in the summer months and the month of October, but still remained mostly constant throughout the year. The frequency of "successful" outcomes, however, did appear to display a correlation with time of year. There is a very clear spike in successful campaigns that starts in late spring and continues through the summer months. Based off of this information, we recommend that she start her campaign in the late spring or early summer months, perhaps in May or June when the success rates seem to be at their highest. 
 
 ### Analysis of Outcomes Based on Goals
 
